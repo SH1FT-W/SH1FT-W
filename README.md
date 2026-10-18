@@ -23,7 +23,7 @@ Everything here started as something I needed at home. It runs locally: no cloud
   <img src="docs/images/readme-cards-ha-light.png" alt="Casora: a calm, room-by-room dashboard for Home Assistant, with a visual studio to shape each room. FLODE: see and edit your automations and scripts as a flow, saved as plain Home Assistant YAML. Pulse: notices when battery sensors in Home Assistant go quiet, without polling them." />
 </picture>
 
-<p align="center"><a href="https://github.com/SH1FT-W/casora"><b>Casora</b></a> <sub><a href="https://sh1ft-w.github.io/casora">website</a></sub> &nbsp;·&nbsp; <a href="https://github.com/SH1FT-W/flode"><b>FLODE</b></a> <sub><a href="https://sh1ft-w.github.io/flode">website</a></sub> &nbsp;·&nbsp; <a href="https://github.com/SH1FT-W/pulse"><b>Pulse</b></a> <sub><a href="https://sh1ft-w.github.io/pulse">website</a></sub></p>
+<p align="center"><a href="https://github.com/SH1FT-W/casora"><b>Casora</b></a> &nbsp;·&nbsp; <a href="https://github.com/SH1FT-W/flode"><b>FLODE</b></a> &nbsp;·&nbsp; <a href="https://github.com/SH1FT-W/pulse"><b>Pulse</b></a></p>
 
 <br/>
 
@@ -36,7 +36,7 @@ Everything here started as something I needed at home. It runs locally: no cloud
   <img src="docs/images/readme-cards-mac-light.png" alt="AgentBar: your Claude Code agents in the macOS menu bar, with a tiny animated office. ShareMount: network shares that reconnect by themselves, right from the menu bar." />
 </picture>
 
-<p align="center"><a href="https://github.com/SH1FT-W/agentbar"><b>AgentBar</b></a> <sub><a href="https://sh1ft-w.github.io/agentbar">website</a></sub> &nbsp;·&nbsp; <a href="https://github.com/SH1FT-W/sharemount"><b>ShareMount</b></a> <sub><a href="https://sh1ft-w.github.io/sharemount">website</a></sub></p>
+<p align="center"><a href="https://github.com/SH1FT-W/agentbar"><b>AgentBar</b></a> &nbsp;·&nbsp; <a href="https://github.com/SH1FT-W/sharemount"><b>ShareMount</b></a></p>
 
 <br/>
 
@@ -64,5 +64,5 @@ Integrations that already run at home and are being readied for release. They ap
 <br/>
 
 <div align="center">
-  <sub>Everything in one place: <a href="https://sh1ft-w.github.io"><b>sh1ft-w.github.io</b></a> &nbsp;·&nbsp; Built with <a href="https://claude.ai">Claude</a></sub>
+  <sub>Every project has its own page on <a href="https://sh1ft-w.github.io"><b>sh1ft-w.github.io</b></a> &nbsp;·&nbsp; Built with <a href="https://claude.ai">Claude</a></sub>
 </div>
