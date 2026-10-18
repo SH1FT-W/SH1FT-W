@@ -6,7 +6,7 @@
     "lead": "Built at home.<br><em>Shared with everyone.</em>",
     "sub": "Home Assistant integrations and Mac apps. Everything here started as something I needed at home: no cloud accounts, no tracking, plain files you can read.",
     "pills": [["5 released"], ["12 coming soon", "v"], ["Home Assistant · Mac"]],
-    "logo": "docs/images/logo.png",
+    "logo": "docs/images/logo.png", "logoWide": true,
     "shot": { "light": "docs/images/site-light.png", "dark": "docs/images/site-dark.png", "srcW": 1600, "winW": 1600, "s": 0.56,
       "strips": [[0, 1000]], "bar": "sh1ft-w.github.io", "left": 600, "top": 80 }
   },
