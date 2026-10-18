@@ -1,0 +1,44 @@
+{
+  "$comment": "Content of the profile README pictures (github.com/SH1FT-W). Render with sh1ft-w.github.io/theme/v1/readme-images (node render.mjs <this repo>). Project taglines follow sh1ft-w.github.io/projects.js.",
+  "title": {
+    "name": "SH1FT-W",
+    "eyebrow": "Open source workshop",
+    "lead": "Built at home.<br><em>Shared with everyone.</em>",
+    "sub": "Home Assistant integrations and Mac apps. Everything here started as something I needed at home: no cloud accounts, no tracking, plain files you can read.",
+    "pills": [["5 released"], ["12 coming soon", "v"], ["Home Assistant · Mac"]],
+    "logo": "docs/images/logo.png",
+    "shot": { "light": "docs/images/site-light.png", "dark": "docs/images/site-dark.png", "srcW": 1600, "winW": 1600, "s": 0.56,
+      "strips": [[0, 1000]], "bar": "sh1ft-w.github.io", "left": 600, "top": 80 }
+  },
+  "colors": {
+    "light": { "bg": "#f5f5f7", "bg2": "#ffffff", "ink": "#1d1d1f", "ink2": "#55555b", "ink3": "#86868b", "accentText": "#0066cc", "accent": "#0066cc", "accent2": "#a78bfa",
+      "glow1": "rgba(0,102,204,0.14)", "glow2": "rgba(255,140,80,0.16)", "frame": "rgba(29,29,31,0.10)", "pillBg": "#ffffff", "pillLine": "rgba(29,29,31,0.08)", "win": "#ffffff", "bar": "linear-gradient(#fff, #f5f5f7)" },
+    "dark": { "bg": "#0b0b0d", "bg2": "#1c1c1e", "ink": "#f5f5f7", "ink2": "rgba(235,235,245,0.72)", "ink3": "rgba(235,235,245,0.5)", "accentText": "#5aa0ff", "accent": "#5aa0ff", "accent2": "#a78bfa",
+      "glow1": "rgba(90,160,255,0.18)", "glow2": "rgba(255,140,80,0.12)", "frame": "rgba(255,255,255,0.10)", "pillBg": "rgba(255,255,255,0.06)", "pillLine": "rgba(255,255,255,0.10)", "win": "#1c1c1e", "bar": "linear-gradient(#242428, #1c1c1e)" }
+  },
+  "cards": {
+    "ha": { "cols": 3, "items": [
+      { "icon": "https://sh1ft-w.github.io/icons/casora.png", "title": "Casora", "text": "A calm, room-by-room dashboard for Home Assistant, with a visual studio to shape each room." },
+      { "icon": "https://sh1ft-w.github.io/icons/flode.svg", "title": "FLODE", "text": "See and edit your automations and scripts as a flow, saved as plain Home Assistant YAML." },
+      { "icon": "https://sh1ft-w.github.io/icons/pulse.svg", "title": "Pulse", "text": "Notices when battery sensors in Home Assistant go quiet, without polling them." }
+    ] },
+    "mac": [
+      { "icon": "https://sh1ft-w.github.io/icons/agentbar.png", "title": "AgentBar", "text": "Your Claude Code agents in the macOS menu bar, with a tiny animated office." },
+      { "icon": "https://sh1ft-w.github.io/icons/sharemount.png", "title": "ShareMount", "text": "Network shares that reconnect by themselves, right from the menu bar." }
+    ],
+    "soon": [
+      { "icon": "https://sh1ft-w.github.io/icons/evenlight.png", "title": "Evenlight", "text": "Adaptive lighting done right: follows the sun, gets the most out of every lamp, wakes you with a sunrise and leaves alone what you set by hand." },
+      { "icon": "https://sh1ft-w.github.io/icons/jbl-bar.png", "title": "JBL Bar", "text": "JBL soundbars with JBL One, fully local in Home Assistant: fast, complete, no cloud." },
+      { "icon": "https://sh1ft-w.github.io/icons/reolink-plus.png", "title": "Reolink Plus", "text": "Live video for Reolink cameras that have no stream of their own, attached right to the Reolink device." },
+      { "icon": "https://sh1ft-w.github.io/icons/pflanzenmonitor-plus.png", "title": "Pflanzenmonitor Plus", "text": "Companion to Plant Monitor: learns each plant's watering cycle, predicts the next watering and suggests thresholds with AI." },
+      { "icon": "https://sh1ft-w.github.io/icons/ps5.png", "title": "PS5", "text": "Your PlayStation 5 in Home Assistant: status, wake and rest mode, fully local without cloud or MQTT." },
+      { "icon": "https://sh1ft-w.github.io/icons/unifi-network-plus.png", "title": "UniFi Network Plus", "text": "Adds what the UniFi Network app shows and Home Assistant doesn't: throughput, clients, internet quality and speed tests." },
+      { "icon": "https://sh1ft-w.github.io/icons/unas.png", "title": "UniFi UNAS", "text": "UniFi NAS in Home Assistant: storage, drives, data scrubs and health, locally through UniFi OS and UniFi Drive." },
+      { "icon": "https://sh1ft-w.github.io/icons/ring-plus.png", "title": "Ring Plus", "text": "Extra controls for the Ring Intercom, added to the official Ring integration: door opener, Ring-to-Open, unlock duration, restart." },
+      { "icon": "https://sh1ft-w.github.io/icons/chihiros.png", "title": "Chihiros", "text": "Chihiros C II RGB lights and dosing pumps in Home Assistant, stable over Bluetooth proxies, no app needed." },
+      { "icon": "https://sh1ft-w.github.io/icons/fluval.png", "title": "Fluval", "text": "The Fluval Reef Nano 4.0 LED in Home Assistant over Bluetooth, robust and without surprises." },
+      { "icon": "https://sh1ft-w.github.io/icons/helialux.png", "title": "HeliaLux", "text": "The Juwel HeliaLux SmartControl in Home Assistant, local, robust and without surprises." },
+      { "icon": "https://sh1ft-w.github.io/icons/delonghi.png", "title": "De'Longhi", "text": "Your De'Longhi coffee machine in Home Assistant with just a smart plug: learns every program, counts every cup, knows when it needs care." }
+    ]
+  }
+}
