@@ -7,10 +7,10 @@
     "sub": "Home Assistant integrations and Mac apps. Everything here started as something I needed at home: no cloud accounts, no tracking, plain files you can read.",
     "pills": [
       [
-        "14 released"
+        "15 released"
       ],
       [
-        "5 coming soon",
+        "4 coming soon",
         "v"
       ],
       [
@@ -135,6 +135,11 @@
           "icon": "https://sh1ft-w.github.io/icons/wetter.png",
           "title": "Wetter & Warnungen",
           "text": "The German Weather Service forecast, the nearest station and every official warning (DWD, NINA) for Germany. Starts instantly, no account."
+        },
+        {
+          "icon": "https://sh1ft-w.github.io/icons/recall.png",
+          "title": "Recall",
+          "text": "Remembers a state and restores it later, unless someone changed it by hand in the meantime. A modern replacement for Saver."
         }
       ]
     },
@@ -165,11 +170,6 @@
         "icon": "https://sh1ft-w.github.io/icons/pflanzenmonitor-plus.png",
         "title": "Pflanzenmonitor Plus",
         "text": "Companion to Plant Monitor: learns each plant's watering cycle, predicts the next watering and suggests thresholds with AI."
-      },
-      {
-        "icon": "https://sh1ft-w.github.io/icons/recall.png",
-        "title": "Recall",
-        "text": "Remembers a state and restores it later, unless someone changed it by hand in the meantime. A modern replacement for Saver."
       },
       {
         "icon": "https://sh1ft-w.github.io/icons/delonghi.png",
