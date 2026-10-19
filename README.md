@@ -48,7 +48,7 @@ Integrations that already run at home and are being readied for release. They ap
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="docs/images/readme-cards-soon-dark.png" />
-  <img src="docs/images/readme-cards-soon-light.png" alt="Evenlight: adaptive lighting done right, follows the sun, gets the most out of every lamp, wakes you with a sunrise. Reolink Plus: live video for Reolink cameras that have no stream of their own. Pflanzenmonitor Plus: learns each plant's watering cycle, predicts the next watering and suggests thresholds with AI. UniFi Network Plus: throughput, clients, internet quality and speed tests. De'Longhi: your coffee machine in Home Assistant with just a smart plug, learns every program, counts every cup, knows when it needs care." />
+  <img src="docs/images/readme-cards-soon-light.png" alt="Evenlight: adaptive lighting done right, follows the sun, gets the most out of every lamp, wakes you with a sunrise. Reolink Plus: live video for Reolink cameras that have no stream of their own. Pflanzenmonitor Plus: learns each plant's watering cycle, predicts the next watering and suggests thresholds with AI. UniFi Network Plus: throughput, clients, internet quality and speed tests. Recall: remembers a state and restores it later, unless someone changed it by hand in the meantime, a modern replacement for Saver. De'Longhi: your coffee machine in Home Assistant with just a smart plug, learns every program, counts every cup, knows when it needs care." />
 </picture>
 
 <br/>

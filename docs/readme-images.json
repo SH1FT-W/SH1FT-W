@@ -10,7 +10,7 @@
         "12 released"
       ],
       [
-        "5 coming soon",
+        "6 coming soon",
         "v"
       ],
       [
@@ -160,6 +160,11 @@
         "icon": "https://sh1ft-w.github.io/icons/unifi-network-plus.png",
         "title": "UniFi Network Plus",
         "text": "Adds what the UniFi Network app shows and Home Assistant doesn't: throughput, clients, internet quality and speed tests."
+      },
+      {
+        "icon": "https://sh1ft-w.github.io/icons/recall.png",
+        "title": "Recall",
+        "text": "Remembers a state and restores it later, unless someone changed it by hand in the meantime. A modern replacement for Saver."
       },
       {
         "icon": "https://sh1ft-w.github.io/icons/delonghi.png",
