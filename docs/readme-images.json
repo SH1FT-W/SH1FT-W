@@ -7,10 +7,10 @@
     "sub": "Home Assistant integrations and Mac apps. Everything here started as something I needed at home: no cloud accounts, no tracking, plain files you can read.",
     "pills": [
       [
-        "10 released"
+        "11 released"
       ],
       [
-        "7 coming soon",
+        "6 coming soon",
         "v"
       ],
       [
@@ -115,6 +115,11 @@
           "icon": "https://sh1ft-w.github.io/icons/chihiros.png",
           "title": "Chihiros",
           "text": "Chihiros LEDs, Commander and dosing pump in Home Assistant, fully local over Bluetooth proxies."
+        },
+        {
+          "icon": "https://sh1ft-w.github.io/icons/ring-plus.png",
+          "title": "Ring Intercom Plus",
+          "text": "Extra controls for the Ring Intercom, added to the official Ring integration: door opener with PIN, Ring-to-Open, next ring opens."
         }
       ]
     },
@@ -155,11 +160,6 @@
         "icon": "https://sh1ft-w.github.io/icons/unas.png",
         "title": "UniFi UNAS",
         "text": "UniFi NAS in Home Assistant: storage, drives, data scrubs and health, locally through UniFi OS and UniFi Drive."
-      },
-      {
-        "icon": "https://sh1ft-w.github.io/icons/ring-plus.png",
-        "title": "Ring Plus",
-        "text": "Extra controls for the Ring Intercom, added to the official Ring integration: door opener, Ring-to-Open, unlock duration, restart."
       },
       {
         "icon": "https://sh1ft-w.github.io/icons/delonghi.png",
