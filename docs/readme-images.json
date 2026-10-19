@@ -7,10 +7,10 @@
     "sub": "Home Assistant integrations and Mac apps. Everything here started as something I needed at home: no cloud accounts, no tracking, plain files you can read.",
     "pills": [
       [
-        "8 released"
+        "9 released"
       ],
       [
-        "9 coming soon",
+        "8 coming soon",
         "v"
       ],
       [
@@ -105,6 +105,11 @@
           "icon": "https://raw.githubusercontent.com/SH1FT-W/helialux/main/docs/images/readme-icon.png",
           "title": "HeliaLux",
           "text": "The Juwel HeliaLux SmartControl in Home Assistant, local, robust and without surprises."
+        },
+        {
+          "icon": "https://raw.githubusercontent.com/SH1FT-W/fluval/main/docs/images/readme-icon.png",
+          "title": "Fluval",
+          "text": "Fluval Bluetooth LEDs in Home Assistant, fully local: Reef and Plant 4.0, the Nanos, Plant PRO and more."
         }
       ]
     },
@@ -155,11 +160,6 @@
         "icon": "https://sh1ft-w.github.io/icons/chihiros.png",
         "title": "Chihiros",
         "text": "Chihiros C II RGB lights and dosing pumps in Home Assistant, stable over Bluetooth proxies, no app needed."
-      },
-      {
-        "icon": "https://sh1ft-w.github.io/icons/fluval.png",
-        "title": "Fluval",
-        "text": "The Fluval Reef Nano 4.0 LED in Home Assistant over Bluetooth, robust and without surprises."
       },
       {
         "icon": "https://sh1ft-w.github.io/icons/delonghi.png",
