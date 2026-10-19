@@ -16,14 +16,14 @@ Everything here started as something I needed at home. It runs locally: no cloud
 
 <a id="home-assistant"></a>
 <sub><b>HOME ASSISTANT</b></sub>
-## Nine integrations you can install today.
+## Ten integrations you can install today.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="docs/images/readme-cards-ha-dark.png" />
-  <img src="docs/images/readme-cards-ha-light.png" alt="Casora: a calm, room-by-room dashboard for Home Assistant, with a visual studio to shape each room. FLODE: see and edit your automations and scripts as a flow, saved as plain Home Assistant YAML. Pulse: notices when battery sensors in Home Assistant go quiet, without polling them. JBL Bar: JBL soundbars with JBL One, fully local in Home Assistant: fast, complete, no cloud. PS5: your PlayStation 5 in Home Assistant, status, wake and rest mode, fully local. HeliaLux: the Juwel HeliaLux SmartControl in Home Assistant, local. Fluval: Fluval Bluetooth LEDs in Home Assistant, fully local. Chihiros: Chihiros LEDs, Commander and dosing pump over Bluetooth proxies. Ring Intercom Plus: extra controls for the Ring Intercom." />
+  <img src="docs/images/readme-cards-ha-light.png" alt="Casora: a calm, room-by-room dashboard for Home Assistant, with a visual studio to shape each room. FLODE: see and edit your automations and scripts as a flow, saved as plain Home Assistant YAML. Pulse: notices when battery sensors in Home Assistant go quiet, without polling them. JBL Bar: JBL soundbars with JBL One, fully local in Home Assistant: fast, complete, no cloud. PS5: your PlayStation 5 in Home Assistant, status, wake and rest mode, fully local. HeliaLux: the Juwel HeliaLux SmartControl in Home Assistant, local. Fluval: Fluval Bluetooth LEDs in Home Assistant, fully local. Chihiros: Chihiros LEDs, Commander and dosing pump over Bluetooth proxies. Ring Intercom Plus: extra controls for the Ring Intercom. UniFi UNAS: your UniFi NAS in Home Assistant, storage, every disk with its health, drives and updates, locally." />
 </picture>
 
-<p align="center"><a href="https://github.com/SH1FT-W/casora"><b>Casora</b></a> &nbsp;·&nbsp; <a href="https://github.com/SH1FT-W/flode"><b>FLODE</b></a> &nbsp;·&nbsp; <a href="https://github.com/SH1FT-W/pulse"><b>Pulse</b></a> &nbsp;·&nbsp; <a href="https://github.com/SH1FT-W/jbl-bar"><b>JBL Bar</b></a> &nbsp;·&nbsp; <a href="https://github.com/SH1FT-W/playstation-5"><b>PS5</b></a> &nbsp;·&nbsp; <a href="https://github.com/SH1FT-W/helialux"><b>HeliaLux</b></a> &nbsp;·&nbsp; <a href="https://github.com/SH1FT-W/fluval"><b>Fluval</b></a> &nbsp;·&nbsp; <a href="https://github.com/SH1FT-W/chihiros"><b>Chihiros</b></a> &nbsp;·&nbsp; <a href="https://github.com/SH1FT-W/ring-intercom-plus"><b>Ring Intercom Plus</b></a></p>
+<p align="center"><a href="https://github.com/SH1FT-W/casora"><b>Casora</b></a> &nbsp;·&nbsp; <a href="https://github.com/SH1FT-W/flode"><b>FLODE</b></a> &nbsp;·&nbsp; <a href="https://github.com/SH1FT-W/pulse"><b>Pulse</b></a> &nbsp;·&nbsp; <a href="https://github.com/SH1FT-W/jbl-bar"><b>JBL Bar</b></a> &nbsp;·&nbsp; <a href="https://github.com/SH1FT-W/playstation-5"><b>PS5</b></a> &nbsp;·&nbsp; <a href="https://github.com/SH1FT-W/helialux"><b>HeliaLux</b></a> &nbsp;·&nbsp; <a href="https://github.com/SH1FT-W/fluval"><b>Fluval</b></a> &nbsp;·&nbsp; <a href="https://github.com/SH1FT-W/chihiros"><b>Chihiros</b></a> &nbsp;·&nbsp; <a href="https://github.com/SH1FT-W/ring-intercom-plus"><b>Ring Intercom Plus</b></a> &nbsp;·&nbsp; <a href="https://github.com/SH1FT-W/unas"><b>UniFi UNAS</b></a></p>
 
 <br/>
 
@@ -48,7 +48,7 @@ Integrations that already run at home and are being readied for release. They ap
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="docs/images/readme-cards-soon-dark.png" />
-  <img src="docs/images/readme-cards-soon-light.png" alt="Evenlight: adaptive lighting done right, follows the sun, gets the most out of every lamp, wakes you with a sunrise. Reolink Plus: live video for Reolink cameras that have no stream of their own. Pflanzenmonitor Plus: learns each plant's watering cycle, predicts the next watering and suggests thresholds with AI. UniFi Network Plus: throughput, clients, internet quality and speed tests. UniFi UNAS: storage, drives, data scrubs and health. De'Longhi: your coffee machine in Home Assistant with just a smart plug, learns every program, counts every cup, knows when it needs care." />
+  <img src="docs/images/readme-cards-soon-light.png" alt="Evenlight: adaptive lighting done right, follows the sun, gets the most out of every lamp, wakes you with a sunrise. Reolink Plus: live video for Reolink cameras that have no stream of their own. Pflanzenmonitor Plus: learns each plant's watering cycle, predicts the next watering and suggests thresholds with AI. UniFi Network Plus: throughput, clients, internet quality and speed tests. De'Longhi: your coffee machine in Home Assistant with just a smart plug, learns every program, counts every cup, knows when it needs care." />
 </picture>
 
 <br/>
