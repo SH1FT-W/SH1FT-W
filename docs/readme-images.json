@@ -7,10 +7,10 @@
     "sub": "Home Assistant integrations and Mac apps. Everything here started as something I needed at home: no cloud accounts, no tracking, plain files you can read.",
     "pills": [
       [
-        "13 released"
+        "14 released"
       ],
       [
-        "6 coming soon",
+        "5 coming soon",
         "v"
       ],
       [
@@ -130,6 +130,11 @@
           "icon": "https://sh1ft-w.github.io/icons/unifi-network-plus.png",
           "title": "UniFi Network Plus",
           "text": "What the UniFi Network dashboard shows, in Home Assistant: throughput, clients, internet quality and speed tests."
+        },
+        {
+          "icon": "https://sh1ft-w.github.io/icons/wetter.png",
+          "title": "Wetter & Warnungen",
+          "text": "The German Weather Service forecast, the nearest station and every official warning (DWD, NINA) for Germany. Starts instantly, no account."
         }
       ]
     },
@@ -160,11 +165,6 @@
         "icon": "https://sh1ft-w.github.io/icons/pflanzenmonitor-plus.png",
         "title": "Pflanzenmonitor Plus",
         "text": "Companion to Plant Monitor: learns each plant's watering cycle, predicts the next watering and suggests thresholds with AI."
-      },
-      {
-        "icon": "https://sh1ft-w.github.io/icons/wetter.png",
-        "title": "Wetter",
-        "text": "Weather for your home: the German Weather Service forecast, the nearest station and every official warning (DWD, NINA)."
       },
       {
         "icon": "https://sh1ft-w.github.io/icons/recall.png",
