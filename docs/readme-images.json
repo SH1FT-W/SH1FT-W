@@ -7,10 +7,10 @@
     "sub": "Home Assistant integrations and Mac apps. Everything here started as something I needed at home: no cloud accounts, no tracking, plain files you can read.",
     "pills": [
       [
-        "12 released"
+        "13 released"
       ],
       [
-        "6 coming soon",
+        "5 coming soon",
         "v"
       ],
       [
@@ -125,6 +125,11 @@
           "icon": "https://sh1ft-w.github.io/icons/unas.png",
           "title": "UniFi UNAS",
           "text": "Your UniFi NAS in Home Assistant: storage, every disk with its health, drives and updates, locally through UniFi OS and UniFi Drive."
+        },
+        {
+          "icon": "https://sh1ft-w.github.io/icons/unifi-network-plus.png",
+          "title": "UniFi Network Plus",
+          "text": "What the UniFi Network dashboard shows, in Home Assistant: throughput, clients, internet quality and speed tests."
         }
       ]
     },
@@ -155,11 +160,6 @@
         "icon": "https://sh1ft-w.github.io/icons/pflanzenmonitor-plus.png",
         "title": "Pflanzenmonitor Plus",
         "text": "Companion to Plant Monitor: learns each plant's watering cycle, predicts the next watering and suggests thresholds with AI."
-      },
-      {
-        "icon": "https://sh1ft-w.github.io/icons/unifi-network-plus.png",
-        "title": "UniFi Network Plus",
-        "text": "Adds what the UniFi Network app shows and Home Assistant doesn't: throughput, clients, internet quality and speed tests."
       },
       {
         "icon": "https://sh1ft-w.github.io/icons/recall.png",
