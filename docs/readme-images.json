@@ -5,7 +5,7 @@
     "eyebrow": "Open source workshop",
     "lead": "Built at home.<br><em>Shared with everyone.</em>",
     "sub": "Home Assistant integrations and Mac apps. Everything here started as something I needed at home: no cloud accounts, no tracking, plain files you can read.",
-    "pills": [["5 released"], ["12 coming soon", "v"], ["Home Assistant · Mac"]],
+    "pills": [["6 released"], ["11 coming soon", "v"], ["Home Assistant · Mac"]],
     "logo": "docs/images/logo.png", "logoWide": true,
     "shot": { "light": "docs/images/site-light.png", "dark": "docs/images/site-dark.png", "srcW": 1600, "winW": 1600, "s": 0.56,
       "strips": [[0, 1000]], "bar": "sh1ft-w.github.io", "left": 600, "top": 80 }
@@ -17,10 +17,11 @@
       "glow1": "rgba(90,160,255,0.18)", "glow2": "rgba(255,140,80,0.12)", "frame": "rgba(255,255,255,0.10)", "pillBg": "rgba(255,255,255,0.06)", "pillLine": "rgba(255,255,255,0.10)", "win": "#1c1c1e", "bar": "linear-gradient(#242428, #1c1c1e)" }
   },
   "cards": {
-    "ha": { "cols": 3, "items": [
+    "ha": { "cols": 2, "items": [
       { "icon": "https://sh1ft-w.github.io/icons/casora.png", "title": "Casora", "text": "A calm, room-by-room dashboard for Home Assistant, with a visual studio to shape each room." },
       { "icon": "https://sh1ft-w.github.io/icons/flode.svg", "title": "FLODE", "text": "See and edit your automations and scripts as a flow, saved as plain Home Assistant YAML." },
-      { "icon": "https://sh1ft-w.github.io/icons/pulse.svg", "title": "Pulse", "text": "Notices when battery sensors in Home Assistant go quiet, without polling them." }
+      { "icon": "https://sh1ft-w.github.io/icons/pulse.svg", "title": "Pulse", "text": "Notices when battery sensors in Home Assistant go quiet, without polling them." },
+      { "icon": "https://raw.githubusercontent.com/SH1FT-W/jbl-bar/main/docs/images/readme-icon.png", "title": "JBL Bar", "text": "JBL soundbars with JBL One, fully local in Home Assistant: fast, complete, no cloud." }
     ] },
     "mac": [
       { "icon": "https://sh1ft-w.github.io/icons/agentbar.png", "title": "AgentBar", "text": "Your Claude Code agents in the macOS menu bar, with a tiny animated office." },
@@ -28,7 +29,6 @@
     ],
     "soon": [
       { "icon": "https://sh1ft-w.github.io/icons/evenlight.png", "title": "Evenlight", "text": "Adaptive lighting done right: follows the sun, gets the most out of every lamp, wakes you with a sunrise and leaves alone what you set by hand." },
-      { "icon": "https://sh1ft-w.github.io/icons/jbl-bar.png", "title": "JBL Bar", "text": "JBL soundbars with JBL One, fully local in Home Assistant: fast, complete, no cloud." },
       { "icon": "https://sh1ft-w.github.io/icons/reolink-plus.png", "title": "Reolink Plus", "text": "Live video for Reolink cameras that have no stream of their own, attached right to the Reolink device." },
       { "icon": "https://sh1ft-w.github.io/icons/pflanzenmonitor-plus.png", "title": "Pflanzenmonitor Plus", "text": "Companion to Plant Monitor: learns each plant's watering cycle, predicts the next watering and suggests thresholds with AI." },
       { "icon": "https://sh1ft-w.github.io/icons/ps5.png", "title": "PS5", "text": "Your PlayStation 5 in Home Assistant: status, wake and rest mode, fully local without cloud or MQTT." },
