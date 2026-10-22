@@ -127,6 +127,16 @@
           "text": "Your UniFi NAS in Home Assistant: storage, every disk with its health, drives and updates, locally through UniFi OS and UniFi Drive."
         },
         {
+          "icon": "https://sh1ft-w.github.io/icons/unifi-dreamrouter7.png",
+          "title": "UniFi Dream Router 7",
+          "text": "Your Dream Router 7 and every UniFi device behind it: WiFi, firewall, ports, PoE, clients and speed tests, locally."
+        },
+        {
+          "icon": "https://sh1ft-w.github.io/icons/pflanzenmonitor-plus.png",
+          "title": "Pflanzenmonitor Plus",
+          "text": "The plant integration that learns: status and limits for every plant, a watering forecast from its own history and AI-suggested limits."
+        },
+        {
           "icon": "https://sh1ft-w.github.io/icons/wetter.png",
           "title": "Wetter & Warnungen",
           "text": "The German Weather Service forecast, the nearest station and every official warning (DWD, NINA) for Germany. Starts instantly, no account."
@@ -160,11 +170,6 @@
         "icon": "https://sh1ft-w.github.io/icons/reolink-plus.png",
         "title": "Reolink Plus",
         "text": "Live video for Reolink cameras that have no stream of their own, attached right to the Reolink device."
-      },
-      {
-        "icon": "https://sh1ft-w.github.io/icons/pflanzenmonitor-plus.png",
-        "title": "Pflanzenmonitor Plus",
-        "text": "Companion to Plant Monitor: learns each plant's watering cycle, predicts the next watering and suggests thresholds with AI."
       },
       {
         "icon": "https://sh1ft-w.github.io/icons/delonghi.png",
