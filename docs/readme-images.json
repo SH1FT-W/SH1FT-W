@@ -127,11 +127,6 @@
           "text": "Your UniFi NAS in Home Assistant: storage, every disk with its health, drives and updates, locally through UniFi OS and UniFi Drive."
         },
         {
-          "icon": "https://sh1ft-w.github.io/icons/unifi-network-plus.png",
-          "title": "UniFi Network Plus",
-          "text": "What the UniFi Network dashboard shows, in Home Assistant: throughput, clients, internet quality and speed tests."
-        },
-        {
           "icon": "https://sh1ft-w.github.io/icons/wetter.png",
           "title": "Wetter & Warnungen",
           "text": "The German Weather Service forecast, the nearest station and every official warning (DWD, NINA) for Germany. Starts instantly, no account."
