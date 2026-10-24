@@ -20,15 +20,15 @@
     "logo": "docs/images/logo.png",
     "logoWide": true,
     "shot": {
-      "light": "docs/images/site-light.png",
-      "dark": "docs/images/site-dark.png",
-      "srcW": 1600,
-      "winW": 1600,
-      "s": 0.56,
+      "light": "docs/images/title-shot-light.png",
+      "dark": "docs/images/title-shot-dark.png",
+      "srcW": 3200,
+      "winW": 3200,
+      "s": 0.28,
       "strips": [
         [
           0,
-          1000
+          2000
         ]
       ],
       "bar": "sh1ft-w.github.io",
