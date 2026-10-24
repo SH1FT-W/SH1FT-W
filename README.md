@@ -56,8 +56,7 @@ Integrations that already run at home and are being readied for release. They ap
 
 <!-- cards:soon -->
 <table>
-<tr><td width="50%" valign="top"><img src="https://sh1ft-w.github.io/icons/evenlight.png" width="22" height="22" align="absmiddle" alt=""> <b>Evenlight</b><br>Adaptive lighting done right: follows the sun, gets the most out of every lamp, wakes you with a sunrise and leaves alone what you set by hand.</td><td width="50%" valign="top"><img src="https://sh1ft-w.github.io/icons/reolink-plus.png" width="22" height="22" align="absmiddle" alt=""> <b>Reolink Plus</b><br>Live video for Reolink cameras that have no stream of their own, attached right to the Reolink device.</td></tr>
-<tr><td width="50%" valign="top"><img src="https://sh1ft-w.github.io/icons/delonghi.png" width="22" height="22" align="absmiddle" alt=""> <b>De'Longhi</b><br>Your De'Longhi coffee machine in Home Assistant with just a smart plug: learns every program, counts every cup, knows when it needs care.</td></tr>
+<tr><td width="50%" valign="top"><img src="https://sh1ft-w.github.io/icons/evenlight.png" width="22" height="22" align="absmiddle" alt=""> <b>Evenlight</b><br>Adaptive lighting done right: follows the sun, gets the most out of every lamp, wakes you with a sunrise and leaves alone what you set by hand.</td><td width="50%" valign="top"><img src="https://sh1ft-w.github.io/icons/delonghi.png" width="22" height="22" align="absmiddle" alt=""> <b>De'Longhi</b><br>Your De'Longhi coffee machine in Home Assistant with just a smart plug: learns every program, counts every cup, knows when it needs care.</td></tr>
 </table>
 <!-- /cards:soon -->
 

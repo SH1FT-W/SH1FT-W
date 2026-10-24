@@ -7,10 +7,10 @@
     "sub": "Home Assistant integrations and Mac apps. Everything here started as something I needed at home: no cloud accounts, no tracking, plain files you can read.",
     "pills": [
       [
-        "15 released"
+        "16 released"
       ],
       [
-        "4 coming soon",
+        "2 coming soon",
         "v"
       ],
       [
@@ -165,11 +165,6 @@
         "icon": "https://sh1ft-w.github.io/icons/evenlight.png",
         "title": "Evenlight",
         "text": "Adaptive lighting done right: follows the sun, gets the most out of every lamp, wakes you with a sunrise and leaves alone what you set by hand."
-      },
-      {
-        "icon": "https://sh1ft-w.github.io/icons/reolink-plus.png",
-        "title": "Reolink Plus",
-        "text": "Live video for Reolink cameras that have no stream of their own, attached right to the Reolink device."
       },
       {
         "icon": "https://sh1ft-w.github.io/icons/delonghi.png",
