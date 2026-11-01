@@ -159,18 +159,6 @@
         "title": "ShareMount",
         "text": "Network shares that reconnect by themselves, right from the menu bar."
       }
-    ],
-    "soon": [
-      {
-        "icon": "https://sh1ft-w.github.io/icons/evenlight.png",
-        "title": "Evenlight",
-        "text": "Adaptive lighting done right: follows the sun, gets the most out of every lamp, wakes you with a sunrise and leaves alone what you set by hand."
-      },
-      {
-        "icon": "https://sh1ft-w.github.io/icons/delonghi.png",
-        "title": "De'Longhi",
-        "text": "Your De'Longhi coffee machine in Home Assistant with just a smart plug: learns every program, counts every cup, knows when it needs care."
-      }
     ]
   }
 }

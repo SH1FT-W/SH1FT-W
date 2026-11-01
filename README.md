@@ -8,7 +8,7 @@
 <p>I build Home Assistant integrations and dashboards, and small apps for the Mac menu bar.<br/>
 Everything here started as something I needed at home. It runs locally: no cloud accounts, no tracking, plain files you can read.</p>
 
-<p><a href="https://sh1ft-w.github.io"><b>Website</b></a> &nbsp;·&nbsp; <a href="#home-assistant">Home Assistant</a> &nbsp;·&nbsp; <a href="#mac">Mac</a> &nbsp;·&nbsp; <a href="#soon">Coming soon</a> &nbsp;·&nbsp; <a href="#how">How I work</a></p>
+<p><a href="https://sh1ft-w.github.io"><b>Website</b></a> &nbsp;·&nbsp; <a href="#home-assistant">Home Assistant</a> &nbsp;·&nbsp; <a href="#mac">Mac</a> &nbsp;·&nbsp; <a href="#how">How I work</a></p>
 
 </div>
 
@@ -45,20 +45,6 @@ Everything here started as something I needed at home. It runs locally: no cloud
 <!-- /cards:mac -->
 
 <p align="center"><a href="https://github.com/SH1FT-W/agentbar"><b>AgentBar</b></a> &nbsp;·&nbsp; <a href="https://github.com/SH1FT-W/sharemount"><b>ShareMount</b></a></p>
-
-<br/>
-
-<a id="soon"></a>
-<sub><b>COMING SOON</b></sub>
-## On the bench.
-
-Integrations that already run at home and are being readied for release. They appear on the [website](https://sh1ft-w.github.io) first.
-
-<!-- cards:soon -->
-<table>
-<tr><td width="50%" valign="top"><img src="https://sh1ft-w.github.io/icons/evenlight.png" width="22" height="22" align="absmiddle" alt=""> <b>Evenlight</b><br>Adaptive lighting done right: follows the sun, gets the most out of every lamp, wakes you with a sunrise and leaves alone what you set by hand.</td><td width="50%" valign="top"><img src="https://sh1ft-w.github.io/icons/delonghi.png" width="22" height="22" align="absmiddle" alt=""> <b>De'Longhi</b><br>Your De'Longhi coffee machine in Home Assistant with just a smart plug: learns every program, counts every cup, knows when it needs care.</td></tr>
-</table>
-<!-- /cards:soon -->
 
 <br/>
 
