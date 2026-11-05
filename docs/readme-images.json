@@ -34,7 +34,8 @@
       "bar": "sh1ft-w.github.io",
       "left": 600,
       "top": 80
-    }
+    },
+    "layout": "center"
   },
   "colors": {
     "light": {
