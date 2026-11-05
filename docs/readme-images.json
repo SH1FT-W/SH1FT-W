@@ -1,5 +1,5 @@
 {
-  "$comment": "Content of the profile README pictures (github.com/SH1FT-W). Render with sh1ft-w.github.io/theme/v1/readme-images (node render.mjs <this repo>). Project taglines follow sh1ft-w.github.io/projects.js.",
+  "$comment": "Title image of the profile README (github.com/SH1FT-W). Render with sh1ft-w.github.io/theme/v1/readme-images (node render.mjs <this repo> title). The project tables in README.md follow sh1ft-w.github.io/projects.js.",
   "title": {
     "name": "SH1FT-W",
     "eyebrow": "Open source workshop",
@@ -71,94 +71,5 @@
       "win": "#1c1c1e",
       "bar": "linear-gradient(#242428, #1c1c1e)"
     }
-  },
-  "cards": {
-    "ha": {
-      "cols": 2,
-      "items": [
-        {
-          "icon": "https://sh1ft-w.github.io/icons/casora.png",
-          "title": "Casora",
-          "text": "A calm, room-by-room dashboard for Home Assistant, with a visual studio to shape each room."
-        },
-        {
-          "icon": "https://sh1ft-w.github.io/icons/flode.svg",
-          "title": "FLODE",
-          "text": "See and edit your automations and scripts as a flow, saved as plain Home Assistant YAML."
-        },
-        {
-          "icon": "https://sh1ft-w.github.io/icons/pulse.svg",
-          "title": "Pulse",
-          "text": "Notices when battery sensors in Home Assistant go quiet, without polling them."
-        },
-        {
-          "icon": "https://raw.githubusercontent.com/SH1FT-W/jbl-bar/main/docs/images/readme-icon.png",
-          "title": "JBL Bar",
-          "text": "JBL soundbars with JBL One, fully local in Home Assistant: fast, complete, no cloud."
-        },
-        {
-          "icon": "https://raw.githubusercontent.com/SH1FT-W/playstation-5/main/docs/images/readme-icon.png",
-          "title": "PS5",
-          "text": "Your PlayStation 5 in Home Assistant: status, wake and rest mode, fully local without cloud or MQTT."
-        },
-        {
-          "icon": "https://raw.githubusercontent.com/SH1FT-W/helialux/main/docs/images/readme-icon.png",
-          "title": "HeliaLux",
-          "text": "The Juwel HeliaLux SmartControl in Home Assistant, local, robust and without surprises."
-        },
-        {
-          "icon": "https://raw.githubusercontent.com/SH1FT-W/fluval/main/docs/images/readme-icon.png",
-          "title": "Fluval",
-          "text": "Fluval Bluetooth LEDs in Home Assistant, fully local: Reef and Plant 4.0, the Nanos, Plant PRO and more."
-        },
-        {
-          "icon": "https://sh1ft-w.github.io/icons/chihiros.png",
-          "title": "Chihiros",
-          "text": "Chihiros LEDs, Commander and dosing pump in Home Assistant, fully local over Bluetooth proxies."
-        },
-        {
-          "icon": "https://sh1ft-w.github.io/icons/ring-plus.png",
-          "title": "Ring Intercom Plus",
-          "text": "Extra controls for the Ring Intercom, added to the official Ring integration: door opener with PIN, Ring-to-Open, next ring opens."
-        },
-        {
-          "icon": "https://sh1ft-w.github.io/icons/unas.png",
-          "title": "UniFi UNAS",
-          "text": "Your UniFi NAS in Home Assistant: storage, every disk with its health, drives and updates, locally through UniFi OS and UniFi Drive."
-        },
-        {
-          "icon": "https://sh1ft-w.github.io/icons/unifi-dreamrouter7.png",
-          "title": "UniFi Dream Router 7",
-          "text": "Your Dream Router 7 and every UniFi device behind it: WiFi, firewall, ports, PoE, clients and speed tests, locally."
-        },
-        {
-          "icon": "https://sh1ft-w.github.io/icons/pflanzenmonitor-plus.png",
-          "title": "Pflanzenmonitor Plus",
-          "text": "The plant integration that learns: status and limits for every plant, a watering forecast from its own history and AI-suggested limits."
-        },
-        {
-          "icon": "https://sh1ft-w.github.io/icons/wetter.png",
-          "title": "Wetter & Warnungen",
-          "text": "The German Weather Service forecast, the nearest station and every official warning (DWD, NINA) for Germany. Starts instantly, no account."
-        },
-        {
-          "icon": "https://sh1ft-w.github.io/icons/recall.png",
-          "title": "Recall",
-          "text": "Remembers a state and restores it later, unless someone changed it by hand in the meantime. A modern replacement for Saver."
-        }
-      ]
-    },
-    "mac": [
-      {
-        "icon": "https://sh1ft-w.github.io/icons/agentbar.png",
-        "title": "AgentBar",
-        "text": "Your Claude Code agents in the macOS menu bar, with a tiny animated office."
-      },
-      {
-        "icon": "https://sh1ft-w.github.io/icons/sharemount.png",
-        "title": "ShareMount",
-        "text": "Network shares that reconnect by themselves, right from the menu bar."
-      }
-    ]
   }
 }
