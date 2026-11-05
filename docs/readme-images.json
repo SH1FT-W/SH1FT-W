@@ -1,5 +1,5 @@
 {
-  "$comment": "Title image of the profile README (github.com/SH1FT-W). Render with sh1ft-w.github.io/theme/v1/readme-images (node render.mjs <this repo> title). The project tables in README.md follow sh1ft-w.github.io/projects.js.",
+  "$comment": "Title image of the profile README (github.com/SH1FT-W). Render with sh1ft-w.github.io/theme/v1/readme-images (node render.mjs <this repo> title). The pills follow sh1ft-w.github.io/projects.js (released and soon entries, per platform). The window shows docs/images/title-shot-{light,dark}.png, the hero of sh1ft-w.github.io/index.html taken with playwright at 1600 px width, device scale 2, ?still&theme=light|dark, clip x 200, y 0, 1200 x 860. The project tables in README.md follow projects.js too.",
   "title": {
     "name": "SH1FT-W",
     "eyebrow": "Open source workshop",
@@ -7,14 +7,14 @@
     "sub": "Home Assistant integrations and Mac apps. Everything here started as something I needed at home: no cloud accounts, no tracking, plain files you can read.",
     "pills": [
       [
-        "16 released"
+        "17 released"
       ],
       [
-        "2 coming soon",
+        "15 for Home Assistant",
         "v"
       ],
       [
-        "Home Assistant · Mac"
+        "2 for Mac"
       ]
     ],
     "logo": "docs/images/logo.png",
@@ -22,13 +22,13 @@
     "shot": {
       "light": "docs/images/title-shot-light.png",
       "dark": "docs/images/title-shot-dark.png",
-      "srcW": 3200,
-      "winW": 3200,
-      "s": 0.28,
+      "srcW": 2400,
+      "winW": 2400,
+      "s": 0.27,
       "strips": [
         [
           0,
-          2000
+          1720
         ]
       ],
       "bar": "sh1ft-w.github.io",
