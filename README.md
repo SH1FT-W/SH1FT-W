@@ -2,7 +2,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="docs/images/readme-title-dark.webp" />
-  <img src="docs/images/readme-title-light.webp" alt="SH1FT-W: Built at home. Shared with everyone. Home Assistant integrations and Mac apps, next to the start page of sh1ft-w.github.io." />
+  <img src="docs/images/readme-title-light.webp" alt="SH1FT-W: Built at home. Shared with everyone." />
 </picture>
 
 <a href="https://sh1ft-w.github.io"><b>Website</b></a>&emsp;<a href="#home-assistant">Home Assistant</a>&emsp;<a href="#mac">Mac</a>&emsp;<a href="#how-i-work">How I work</a>
